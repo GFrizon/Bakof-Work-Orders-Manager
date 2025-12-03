@@ -66,7 +66,7 @@ Além disso, reduz comunicação perdida por WhatsApp, bilhetes ou verbal.
 ### 🔐 Login
 ![Tela de Login](prints/LOGIN.png)
 
-### 🏭 Dashboard Inicial
+### 🏭 Area Administrativa
 ![Dashboard Operacional](prints/ADM.png)
 
 ### 📝 Solicitação de OS
@@ -75,7 +75,7 @@ Além disso, reduz comunicação perdida por WhatsApp, bilhetes ou verbal.
 ### 📤 Aprovação / Análise
 ![Aprovação Administrativa](prints/APROV.png)
 
-### 🔧 Ações Administrativas (Iniciar / Encerrar OS + Colaboradores)
+### 🔧 Ações Operadores (Iniciar / Encerrar OS + Colaboradores)
 ![Gestão e Execução](prints/COLAB.png)
 
 ### 📦 Tela de Concluídas / Arquivamento
