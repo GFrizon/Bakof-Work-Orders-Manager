@@ -1,4 +1,9 @@
+
 # Bakof-Work-Orders-Manager By Gabriel Chimello Frizon
+![Status](https://img.shields.io/badge/status-produção-green)
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![Framework](https://img.shields.io/badge/framework-streamlit-red)
+
 📌 Sistema corporativo de gestão de Ordens de Serviço — implantado e utilizado em produção pela Bakof Tec
 
 Este projeto foi desenvolvido sob demanda para a **Bakof Tec**, com o objetivo de melhorar o fluxo operacional, registro, acompanhamento e análise das ordens de serviço.
