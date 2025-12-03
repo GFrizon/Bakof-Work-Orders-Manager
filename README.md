@@ -59,7 +59,37 @@ Além disso, reduz comunicação perdida por WhatsApp, bilhetes ou verbal.
 
 **Deploy / Infraestrutura**  
 - Render / AlwaysData  
-- Deploy contínuo por GitHub  
+- Deploy contínuo por GitHub
+
+## 📸 Screenshots da aplicação
+
+### 🔐 Login
+![Tela de Login](prints/LOGIN.png)
+
+### 🏭 Dashboard Inicial
+![Dashboard Operacional](prints/ADM.png)
+
+### 📝 Solicitação de OS
+![Solicitação de OS](prints/SOLICI.png)
+
+### 📤 Aprovação / Análise
+![Aprovação Administrativa](prints/APROV.png)
+
+### 🔧 Ações Administrativas (Iniciar / Encerrar OS + Colaboradores)
+![Gestão e Execução](prints/COLAB.png)
+
+### 📦 Tela de Concluídas / Arquivamento
+![Concluídas](prints/CONCLUIDAS.png)
+
+### 📊 Fila de Trabalho (Visão Geral)
+![Fila de Trabalho](prints/FILA.png)
+
+### 🔍 Zoom interpretativo da Fila
+![Fila — Zoom](prints/FILA ZOOM.png)
+
+### 👥 Perspectiva do operador
+![Fila Operadores](prints/operadores.png)
+
  
 
 ---
